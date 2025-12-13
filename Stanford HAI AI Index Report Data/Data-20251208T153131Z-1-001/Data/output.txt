@@ -1,0 +1,60 @@
+fig_4.2.10.csv: State code,Percentage of US AI job postings
+fig_4.2.1.csv: Year,AI job postings (% of all job postings),Geographic area
+fig_4.3.9.csv: Geographic area,"Total Investment (in Billions of U.S. Dollars), 2013-24"
+fig_4.3.3.csv: Year,Total investment (in billions of US dollars)
+fig_4.4.9.csv: Innovation metrics,Treatment effect
+fig_4.2.16.csv: Geographic area,Gender,"Relative AI skill penetration, 2015-24"
+fig_4.5.5.csv: Year,Number of industrial robots installed (in thousands),Geographic area
+fig_4.2.18.csv: Geographic area,Percentage change in AI talent concentration
+fig_4.2.14.csv: Date,Geographic area,Relative AI hiring year-over-year ratio
+fig_4.3.16.csv: Focus area,Year,Total investment (in billions of U.S. dollars)
+fig_4.2.4.csv: Number of AI Job Postings,Skill,Year
+fig_4.2.19.csv: Year,Geographic area,Gender,AI talent concentration
+fig_4.3.2.csv: Year,Total investment (in billions of US dollars)
+fig_4.2.3.csv: Year,AI job postings (% of all job postings),Skill cluster
+fig_4.2.23.csv: Date,country,"Net AI talent migration per 10,000 LinkedIn members"
+fig_4.2.27.csv: interaction_type,pct,behavior
+fig_4.4.5.csv: % of respondents,Generative AI use case,Function
+fig_4.4.13.csv: Expectation type,Response,% of respondents,Year
+fig_4.5.7.csv: Annual Growth Rate of Industrial Robots Installed,Country
+fig_4.4.12.csv: Function,Response,% of respondents
+fig_4.4.1.csv: Year,% of respondents,Label
+fig_4.3.14.csv: Year,Number of companies,Geographic area
+fig_4.2.22.csv: Geographic area,"Net AI talent migration per 10,000 LinkedIn members"
+fig_4.5.4.csv: Number of Industrial Robots Installed (in Thousands),Geographic area,Label
+fig_4.2.13.csv: Geographic area,Relative AI hiring rate year-over-year ratio
+fig_4.2.2.csv: Year,AI job postings (% of all job postings),Geographic area
+fig_4.2.5.csv: Number of AI Job Postings,Generative AI skill,Year
+fig_4.5.2.csv: Year,Number of industrial robots (in thousands)
+fig_4.3.8.csv: Geographic area,Total Investment (in Billions of U.S. Dollars)
+fig_4.2.25.csv: Title,pct_occ_scaled,MedianSalary
+fig_4.5.6.csv: Year,Number of industrial robots installed (in thousands),Label
+fig_4.3.12.csv: Geographic area,"Number of newly funded AI companies, 2024"
+fig_4.3.4.csv: Year,Number of companies
+fig_4.5.3.csv: Year,Number of industrial robots installed (in thousands),Label
+fig_4.2.24.csv: Occupation,bls_pct,claude_pct
+fig_4.3.5.csv: Year,Number of companies
+fig_4.4.11.csv: Productivity gains,% of respondents
+fig_4.5.8.csv: Number of Professional Service Robots Installed (in Thousands),Application Area,Year
+fig_4.3.11.csv: Year,Total investment (in billions of US dollars),Geographic area
+fig_4.4.4.csv: % of Respondents,Geographic Area,Year
+fig_4.2.21.csv: Year,Geographic area,Gender,AI talent representation
+fig_4.3.13.csv: Geographic area,"Number of newly funded AI companies, 2013-24"
+fig_4.2.20.csv: Year,AI talent representation,Gender
+fig_4.4.3.csv: Function,Category,Percentage
+fig_4.3.15.csv: Total investment (in billions of U.S. dollars),Focus area,Year
+fig_4.3.10.csv: Year,Total investment (in billions of US dollars),Geographic area
+fig_4.3.6.csv: Year,Average investment (in millions of US dollars)
+fig_4.5.1.csv: Year,Number of industrial robots installed (in thousands)
+fig_4.4.2.csv: Industry,Function,year,% of respondents
+fig_4.2.7.csv: AI Job Postings (% of All Job Postings),Sector,Year
+fig_4.2.11.csv: Year,Percentage of US states’ job postings in AI,State
+fig_4.2.9.csv: State code,Percentage of US states' job postings in AI
+fig_4.4.6.csv: Function,Year,Category,% of respondents
+fig_4.2.8.csv: State code,Numbe rof AI job postings
+fig_4.3.1.csv: Year,Investment Type,Total investment (in billions of US dollars)
+fig_4.2.15.csv: Geographic area,"Relative AI skill penetration rate, 2015-24"
+fig_4.2.12.csv: Year,Percentage of United States AI job postings,State
+fig_4.2.17.csv: Geographic area,AI talent concentration
+fig_4.4.7.csv: % of Respondents,Geographic Area,Year
+fig_4.2.6.csv: Number of AI Job Postings,Generative AI skill,Year

@@ -1,0 +1,3 @@
+job_postings.csv: "job_link","last_processed_time","last_status","got_summary","got_ner","is_being_worked","job_title","company","job_location","first_seen","search_city","search_country","search_position","job_level","job_type"
+job_summary.csv: "job_link","job_summary"
+job_skills.csv: "job_link","job_skills"

@@ -1,0 +1,225 @@
+Scanned Directory: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources
+================================================================================
+
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive(1)/startup_valuation_dataset.csv
+HEAD: startup_id,startup_name,founded_year,country,region,industry,funding_round,funding_amount_usd,funding_date,lead_investor,co_investors,employee_count,estimated_revenue_usd,estimated_valuation_usd,exited,exit_type,tags
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive(2)/ai_job_dataset.csv
+HEAD: job_id,job_title,salary_usd,salary_currency,experience_level,employment_type,company_location,company_size,employee_residence,remote_ratio,required_skills,education_required,years_experience,industry,posting_date,application_deadline,job_description_length,benefits_score,company_name
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive(2)/ai_job_dataset1.csv
+HEAD: job_id,job_title,salary_usd,salary_currency,salary_local,experience_level,employment_type,company_location,company_size,employee_residence,remote_ratio,required_skills,education_required,years_experience,industry,posting_date,application_deadline,job_description_length,benefits_score,company_name
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive/Startups in 2021 end.csv
+HEAD: ,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive(3)/job_skills.csv
+HEAD: "job_link","job_skills"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive(3)/job_summary.csv
+HEAD: "job_link","job_summary"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/archive(3)/job_postings.csv
+HEAD: "job_link","last_processed_time","last_status","got_summary","got_ner","is_being_worked","job_title","company","job_location","first_seen","search_city","search_country","search_position","job_level","job_type"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm22all/all_data_M_2022.csv
+HEAD: AREA,AREA_TITLE,AREA_TYPE,PRIM_STATE,NAICS,NAICS_TITLE,I_GROUP,OWN_CODE,OCC_CODE,OCC_TITLE,O_GROUP,TOT_EMP,EMP_PRSE,JOBS_1000,LOC_QUOTIENT,PCT_TOTAL,PCT_RPT,H_MEAN,A_MEAN,MEAN_PRSE,H_PCT10,H_PCT25,H_MEDIAN,H_PCT75,H_PCT90,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90,ANNUAL,HOURLY
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm21all/all_data_M_2021.csv
+HEAD: AREA,AREA_TITLE,AREA_TYPE,PRIM_STATE,NAICS,NAICS_TITLE,I_GROUP,OWN_CODE,OCC_CODE,OCC_TITLE,O_GROUP,TOT_EMP,EMP_PRSE,JOBS_1000,LOC_QUOTIENT,PCT_TOTAL,PCT_RPT,H_MEAN,A_MEAN,MEAN_PRSE,H_PCT10,H_PCT25,H_MEDIAN,H_PCT75,H_PCT90,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90,ANNUAL,HOURLY
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm19all/all_data_M_2019.csv
+HEAD: area,area_title,area_type,naics,naics_title,i_group,own_code,occ_code,occ_title,o_group,tot_emp,emp_prse,jobs_1000_orig,loc_quotient,pct_total,h_mean,a_mean,mean_prse,h_pct10,h_pct25,h_median,h_pct75,h_pct90,a_pct10,a_pct25,a_median,a_pct75,a_pct90,annual,hourly
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm20all/all_data_M_2020.csv
+HEAD: AREA,AREA_TITLE,AREA_TYPE,PRIM_STATE,NAICS,NAICS_TITLE,I_GROUP,OWN_CODE,OCC_CODE,OCC_TITLE,O_GROUP,TOT_EMP,EMP_PRSE,JOBS_1000,LOC_QUOTIENT,PCT_TOTAL,H_MEAN,A_MEAN,MEAN_PRSE,H_PCT10,H_PCT25,H_MEDIAN,H_PCT75,H_PCT90,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90,ANNUAL,HOURLY
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm24all/all_data_M_2024.csv
+HEAD: AREA,AREA_TITLE,AREA_TYPE,PRIM_STATE,NAICS,NAICS_TITLE,I_GROUP,OWN_CODE,OCC_CODE,OCC_TITLE,O_GROUP,TOT_EMP,EMP_PRSE,JOBS_1000,LOC_QUOTIENT,PCT_TOTAL,PCT_RPT,H_MEAN,A_MEAN,MEAN_PRSE,H_PCT10,H_PCT25,H_MEDIAN,H_PCT75,H_PCT90,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90,ANNUAL,HOURLY
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm18all/all_data_M_2018.csv
+HEAD: area,area_title,area_type,naics,naics_title,i_group,own_code,occ_code,occ_title,o_group,tot_emp,emp_prse,jobs_1000,loc_quotient,pct_total,h_mean,a_mean,mean_prse,h_pct10,h_pct25,h_median,h_pct75,h_pct90,a_pct10,a_pct25,a_median,a_pct75,a_pct90,annual,hourly
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/US Bureau of Labor Statistics/oesm23all/all_data_M_2023.csv
+HEAD: AREA,AREA_TITLE,AREA_TYPE,PRIM_STATE,NAICS,NAICS_TITLE,I_GROUP,OWN_CODE,OCC_CODE,OCC_TITLE,O_GROUP,TOT_EMP,EMP_PRSE,JOBS_1000,LOC_QUOTIENT,PCT_TOTAL,PCT_RPT,H_MEAN,A_MEAN,MEAN_PRSE,H_PCT10,H_PCT25,H_MEDIAN,H_PCT75,H_PCT90,A_PCT10,A_PCT25,A_MEDIAN,A_PCT75,A_PCT90,ANNUAL,HOURLY
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.2.csv
+HEAD: Year,Total investment (in billions of US dollars)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.23.csv
+HEAD: Date,country,"Net AI talent migration per 10,000 LinkedIn members"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.16.csv
+HEAD: Geographic area,Gender,"Relative AI skill penetration, 2015-24"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.8.csv
+HEAD: Number of Professional Service Robots Installed (in Thousands),Application Area,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.27.csv
+HEAD: interaction_type,pct,behavior
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.5.csv
+HEAD: Number of AI Job Postings,Generative AI skill,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.13.csv
+HEAD: Expectation type,Response,% of respondents,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.2.csv
+HEAD: Industry,Function,year,% of respondents
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.7.csv
+HEAD: % of Respondents,Geographic Area,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.4.csv
+HEAD: Year,Number of companies
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.8.csv
+HEAD: State code,Numbe rof AI job postings
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.1.csv
+HEAD: Year,Number of industrial robots installed (in thousands)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.21.csv
+HEAD: Year,Geographic area,Gender,AI talent representation
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.5.csv
+HEAD: % of respondents,Generative AI use case,Function
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.1.csv
+HEAD: Year,AI job postings (% of all job postings),Geographic area
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.19.csv
+HEAD: Year,Geographic area,Gender,AI talent concentration
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.22.csv
+HEAD: Geographic area,"Net AI talent migration per 10,000 LinkedIn members"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.12.csv
+HEAD: Geographic area,"Number of newly funded AI companies, 2024"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.24.csv
+HEAD: Occupation,bls_pct,claude_pct
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.11.csv
+HEAD: Year,Total investment (in billions of US dollars),Geographic area
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.6.csv
+HEAD: Number of AI Job Postings,Generative AI skill,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.11.csv
+HEAD: Productivity gains,% of respondents
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.13.csv
+HEAD: Geographic area,Relative AI hiring rate year-over-year ratio
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.13.csv
+HEAD: Geographic area,"Number of newly funded AI companies, 2013-24"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.3.csv
+HEAD: Year,AI job postings (% of all job postings),Skill cluster
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.14.csv
+HEAD: Year,Number of companies,Geographic area
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.9.csv
+HEAD: Geographic area,"Total Investment (in Billions of U.S. Dollars), 2013-24"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.1.csv
+HEAD: Year,Investment Type,Total investment (in billions of US dollars)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.14.csv
+HEAD: Date,Geographic area,Relative AI hiring year-over-year ratio
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.3.csv
+HEAD: Function,Category,Percentage
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.9.csv
+HEAD: State code,Percentage of US states' job postings in AI
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.3.csv
+HEAD: Year,Total investment (in billions of US dollars)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.12.csv
+HEAD: Function,Response,% of respondents
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.4.csv
+HEAD: % of Respondents,Geographic Area,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.2.csv
+HEAD: Year,Number of industrial robots (in thousands)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.9.csv
+HEAD: Innovation metrics,Treatment effect
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.17.csv
+HEAD: Geographic area,AI talent concentration
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.12.csv
+HEAD: Year,Percentage of United States AI job postings,State
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.10.csv
+HEAD: Year,Total investment (in billions of US dollars),Geographic area
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.5.csv
+HEAD: Year,Number of companies
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.4.csv
+HEAD: Number of AI Job Postings,Skill,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.10.csv
+HEAD: State code,Percentage of US AI job postings
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.6.csv
+HEAD: Year,Average investment (in millions of US dollars)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.1.csv
+HEAD: Year,% of respondents,Label
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.6.csv
+HEAD: Year,Number of industrial robots installed (in thousands),Label
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.18.csv
+HEAD: Geographic area,Percentage change in AI talent concentration
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.4.csv
+HEAD: Number of Industrial Robots Installed (in Thousands),Geographic area,Label
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.15.csv
+HEAD: Geographic area,"Relative AI skill penetration rate, 2015-24"
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.7.csv
+HEAD: Annual Growth Rate of Industrial Robots Installed,Country
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.11.csv
+HEAD: Year,Percentage of US states’ job postings in AI,State
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.20.csv
+HEAD: Year,AI talent representation,Gender
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.2.csv
+HEAD: Year,AI job postings (% of all job postings),Geographic area
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.15.csv
+HEAD: Total investment (in billions of U.S. dollars),Focus area,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.25.csv
+HEAD: Title,pct_occ_scaled,MedianSalary
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.16.csv
+HEAD: Focus area,Year,Total investment (in billions of U.S. dollars)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.3.csv
+HEAD: Year,Number of industrial robots installed (in thousands),Label
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.4.6.csv
+HEAD: Function,Year,Category,% of respondents
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.3.8.csv
+HEAD: Geographic area,Total Investment (in Billions of U.S. Dollars)
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.2.7.csv
+HEAD: AI Job Postings (% of All Job Postings),Sector,Year
+----------------------------------------
+FILE: /home/elitedev/Downloads/datavis/in3030tutorials2025-Ali-Hafeez/portfolio/project/DataSources/Stanford HAI AI Index Report Data/Data-20251208T153131Z-1-001/Data/fig_4.5.5.csv
+HEAD: Year,Number of industrial robots installed (in thousands),Geographic area
+----------------------------------------

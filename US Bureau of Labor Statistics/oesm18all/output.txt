@@ -1,0 +1,1 @@
+all_data_M_2018.csv: area,area_title,area_type,naics,naics_title,i_group,own_code,occ_code,occ_title,o_group,tot_emp,emp_prse,jobs_1000,loc_quotient,pct_total,h_mean,a_mean,mean_prse,h_pct10,h_pct25,h_median,h_pct75,h_pct90,a_pct10,a_pct25,a_median,a_pct75,a_pct90,annual,hourly

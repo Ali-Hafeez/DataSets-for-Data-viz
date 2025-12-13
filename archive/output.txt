@@ -1,0 +1,1 @@
+Startups in 2021 end.csv: ,Company,Valuation ($B),Date Joined,Country,City,Industry,Select Investors
